@@ -1,2 +1,2 @@
 # OMNeT-Data-Config
-Repository contains OMNeT++ Configuration and Data Files 
+Repository contains OMNeT++ Configuration and Data Files organized in 2 branches - Metrics observed after the entire optimization and Partial results after each of the NSGA-II evolutionary operations, Sampling, Crossover and Mutation. The optimized gateway co-ordinates along-with the representative patient nodes are added to OMNeT++ FLoRa for studying the dynamic network behavior with adaptive data rate set.
